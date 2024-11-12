@@ -1,0 +1,59 @@
+body{
+    
+    margin: 10%;
+    padding: 0%;
+    height: 1px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: black;
+    color: white;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+nav h1{
+    font-size: 35px;
+}
+ul li a{
+    margin-inline: 20px;
+    font-size: 26px;
+}
+image{
+    width: 10px;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 20px
+}
+.container .text{
+    margin-top: 10px;
+}
+.text h1{
+    font-size: 100px;
+}
+.text p{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.text button{
+    width: 160px;
+    height: 40px;
+    background-color: rgb(211, 42, 42);
+    color: white;
+    font-size: 24px;
+    border: none;
+    margin-top: 30px;
+}
